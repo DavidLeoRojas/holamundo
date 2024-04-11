@@ -1,0 +1,14 @@
+<changelist name="h" date="1712879037079" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/h/shelved.patch" />
+  <option name="DESCRIPTION" value="h" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="holamundo/.mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/h/maven-wrapper.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="out/artifacts/holamundo_jar/holamundo.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/h/holamundo.jar" />
+  </binary>
+</changelist>
